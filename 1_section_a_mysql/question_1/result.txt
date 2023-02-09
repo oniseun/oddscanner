@@ -1,0 +1,17 @@
++-------------------+---------------+
+| NAME              | DEPARTMENT_ID |
++-------------------+---------------+
+| Alexander Khoo    |            30 |
+| Daniel Faviet     |           100 |
+| Den Raphaely      |            30 |
+| Guy Himuro        |            30 |
+| Ismael Sciarra    |           100 |
+| John Chen         |           100 |
+| Jose Manuel Urman |           100 |
+| Karen Colmenares  |            30 |
+| Luis Popp         |           100 |
+| Nancy Greenberg   |           100 |
+| Shelli Baida      |            30 |
+| Sigal Tobias      |            30 |
++-------------------+---------------+
+12 rows in set (0.01 sec)

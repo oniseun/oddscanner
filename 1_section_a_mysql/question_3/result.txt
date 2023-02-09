@@ -1,0 +1,69 @@
++-------------------+----------+
+| NAME              | SALARY   |
++-------------------+----------+
+| Steven King       | 24000.00 |
+| Neena Kochhar     | 17000.00 |
+| Lex De Haan       | 17000.00 |
+| Alexander Hunold  |  9000.00 |
+| Bruce Ernst       |  6000.00 |
+| David Austin      |  4800.00 |
+| Valli Pataballa   |  4800.00 |
+| Diana Lorentz     |  4200.00 |
+| Nancy Greenberg   | 12000.00 |
+| Daniel Faviet     |  9000.00 |
+| John Chen         |  8200.00 |
+| Ismael Sciarra    |  7700.00 |
+| Jose Manuel Urman |  7800.00 |
+| Luis Popp         |  6900.00 |
+| Den Raphaely      | 11000.00 |
+| Matthew Weiss     |  8000.00 |
+| Adam Fripp        |  8200.00 |
+| Payam Kaufling    |  7900.00 |
+| Shanta Vollman    |  6500.00 |
+| Kevin Mourgos     |  5800.00 |
+| John Russell      | 14000.00 |
+| Karen Partners    | 13500.00 |
+| Alberto Errazuriz | 12000.00 |
+| Gerald Cambrault  | 11000.00 |
+| Eleni Zlotkey     | 10500.00 |
+| Peter Tucker      | 10000.00 |
+| David Bernstein   |  9500.00 |
+| Peter Hall        |  9000.00 |
+| Christopher Olsen |  8000.00 |
+| Nanette Cambrault |  7500.00 |
+| Oliver Tuvault    |  7000.00 |
+| Janette King      | 10000.00 |
+| Patrick Sully     |  9500.00 |
+| Allan McEwen      |  9000.00 |
+| Lindsey Smith     |  8000.00 |
+| Louise Doran      |  7500.00 |
+| Sarath Sewall     |  7000.00 |
+| Clara Vishney     | 10500.00 |
+| Danielle Greene   |  9500.00 |
+| Mattea Marvins    |  7200.00 |
+| David Lee         |  6800.00 |
+| Sundar Ande       |  6400.00 |
+| Amit Banda        |  6200.00 |
+| Lisa Ozer         | 11500.00 |
+| Harrison Bloom    | 10000.00 |
+| Tayler Fox        |  9600.00 |
+| William Smith     |  7400.00 |
+| Elizabeth Bates   |  7300.00 |
+| Sundita Kumar     |  6100.00 |
+| Ellen Abel        | 11000.00 |
+| Alyssa Hutton     |  8800.00 |
+| Jonathon Taylor   |  8600.00 |
+| Jack Livingston   |  8400.00 |
+| Kimberely Grant   |  7000.00 |
+| Charles Johnson   |  6200.00 |
+| Nandita Sarchand  |  4200.00 |
+| Alexis Bull       |  4100.00 |
+| Jennifer Whalen   |  4400.00 |
+| Michael Hartstein | 13000.00 |
+| Pat Fay           |  6000.00 |
+| Susan Mavris      |  6500.00 |
+| Hermann Baer      | 10000.00 |
+| Shelley Higgins   | 12000.00 |
+| William Gietz     |  8300.00 |
++-------------------+----------+
+64 rows in set (0.00 sec)
