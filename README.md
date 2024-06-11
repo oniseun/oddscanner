@@ -1,6 +1,5 @@
 
-# Oddscanner Take Home Test (Senior Web Developer)
-
+# Oddscanner
 
 ## Author
 
